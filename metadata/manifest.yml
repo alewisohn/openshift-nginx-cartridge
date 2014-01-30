@@ -10,7 +10,7 @@ Cartridge-Vendor: gsterjov
 Categories:
   - service
   - nginx
-  - web_framework
+  - embedded
 Provides:
   - nginx-1.4
   - "nginx"
